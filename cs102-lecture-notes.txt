@@ -4,3 +4,19 @@ Here are some git commands learnt so far by me--
 3. git add -- This command is used for adding files or directories into staging area for the next commit.
 4. git commit -- This command is used to commit all the changes and store them as the snapshot.
 5. git push -- This command is used for pushing of all the information(data changed like files or directories) from the local machine to the server repositories.
+
+Short summary:
+Git is a popular version control system used by software developers to track changes in their codebase. Here are some commonly used Git commands:
+
+git init: Initializes a new Git repository in your current directory.
+git add: Adds files to the staging area for committing.
+git commit: Records changes to the repository with a commit message.
+git status: Shows the current status of the repository.
+git log: Displays a history of all commits in the repository.
+git branch: Lists all branches in the repository.
+git checkout: Switches to a different branch or commit.
+git merge: Merges changes from one branch to another.
+git pull: Fetches and merges changes from a remote repository.
+git push: Pushes changes to a remote repository.
+These commands are just the basics, but they provide a solid foundation for working with Git. There are many other Git commands and features that you can explore as you become more comfortable with the tool.
+
