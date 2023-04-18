@@ -1,0 +1,6 @@
+Here are some git commands learnt so far by me--
+1. git init -- This command is used for initialising a local repository into a git repository.
+2. git clone -- This command is used for cloning a already existing git repositories from the server into the local machine for using it.
+3. git add -- This command is used for adding files or directories into staging area for the next commit.
+4. git commit -- This command is used to commit all the changes and store them as the snapshot.
+5. git push -- This command is used for pushing of all the information(data changed like files or directories) from the local machine to the server repositories.
